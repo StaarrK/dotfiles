@@ -6,5 +6,10 @@
 !alacritty/
 !hypr/
 !waybar/
-!rofi
+!rofi/
 
+!nvim/**
+!alacritty/**
+!hypr/**
+!waybar/**
+!rofi/**
