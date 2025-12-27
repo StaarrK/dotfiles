@@ -1,0 +1,8 @@
+*
+
+!.gitignore
+
+!nvim/
+!alacritty/
+!hypr/
+!waybar/
