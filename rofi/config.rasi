@@ -1,8 +1,12 @@
 configuration {
-    font: "JetBrainsMono Nerd Font 12";
+    font: "Arial";
 }
 
 //@theme "/usr/share/rofi/themes/arthur.rasi"
 
-@theme "/usr/share/rofi/themes/purple.rasi"
+//@theme "/usr/share/rofi/themes/purple.rasi"
 
+
+//@theme "/home/starrk/.local/share/rofi/themes/rounded-purple-dark.rasi"
+
+@theme "/home/starrk/.local/share/rofi/themes/rounded-blue-dark.rasi"
